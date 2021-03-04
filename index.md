@@ -6,9 +6,15 @@ profile_picture:
 ---
 
 <p>
-  Welcome! This site serves as an example for the Bay Jekyll theme. Bay is a very simple and minimal theme, directly inspired by Dan Grover's <a href="http://dangrover.com">website</a>.
-</p>
+  Hello, I'm a masters student in Computer Science at KAIST. I'm studying in <a href="https://casys.kaist.ac.kr">Computer Architecture and Systems Lab</a> and advised by professor <a href="https://jongse-park.github.io/">Jongse Park</a>.
+</p><br>
 
+## Contact
 <p>
-  You can find the source code and the instructions on <a href="https://github.com/eliottvincent/bay">GitHub</a>.
-</p>
+  <b>Email</b>: mskim@casys.kaist.ac.kr<br>
+  <b>Location</b>: Room 4414, E3, KAIST, Daejeon, South Korea
+</p><br>
+S
+## Education
+Current: MS in Computer Science at KAIST<br>
+Feburary 2021: BS in Computer Science at KAIST
