@@ -22,6 +22,9 @@ footer:
     - name: Email
       value: mskim@casys.kaist.ac.kr
       link: mailto:mskim@casys.kaist.ac.kr
+    - name: Email
+      value: kms040411@kaist.ac.kr
+      link: mailto:kms040411@kaist.ac.kr
   follow:
     - name: GitHub
       link: http://github.com/kms040411
