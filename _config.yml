@@ -11,34 +11,20 @@ og_image: /assets/img/profile-pic.jpg
 
 header:
   pages:
-    - name: Home
-      slug: /
-    - name: Work
-    - name: Blog
+    #- name: Home
+    #  slug: /
+    #- name: Work
+    #- name: Blog
 
 footer:
   show_powered_by: true
   contact:
     - name: Email
-      value: yourmail@domain.com
-      link: mailto:yourmail@domain.com
-    - name: WeChat
-      value: YourWeChatUsername
-      link: "#"
+      value: mskim@casys.kaist.ac.kr
+      link: mailto:mskim@casys.kaist.ac.kr
   follow:
-    - name: Twitter
-      link: http://twitter.com/YourTwitterUsername
-      username: "@YourTwitterUsername"
-    - name: Facebook
-      link: http://facebook.com/YourFacebookUsername
-    - name: LinkedIn
-      link: http://linkedin.com/in/YourLinkedInUsername
     - name: GitHub
-      link: http://github.com/YourGitHubUsername
-    - name: Dribbble
-      link: https://dribbble.com/YourDribbbleUsername
-    - name: RSS
-      link: /feed.xml
+      link: http://github.com/kms040411
 
 # Build settings
 markdown: kramdown
