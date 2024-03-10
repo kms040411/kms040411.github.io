@@ -12,15 +12,15 @@ profile_picture:
 ## Contact
 <p>
   <b>Email</b>: mskim@casys.kaist.ac.kr<br>
-  <b>Location</b>: Room 4444, E3, KAIST, Daejeon, South Korea
+  <b>Location</b>: E3, KAIST, Daejeon, South Korea
 </p><br>
 
 ## Research Interests
 <ul>
   <li>Computer Architecture</li>
-  <li>Machine Learning for Systems</li>
   <li>Systems for Machine Learning</li>
   <li>Distributed Systems</li>
+  <li>Large Language Models</li>
 </ul><br>
 
 ## Education
@@ -30,7 +30,18 @@ February 2023: MS in Computer Science at KAIST<br>
 February 2021: BS in Computer Science at KAIST
 </p><br>
 
+## Career
+<p>
+July 2023 ~ Current: Intern, Software Developer, HyperAccel
+</p><br>
+
 ## Publication
 ### CoVA: Exploiting Compressed-Domain Analysis to Accelerate Video Analytics
 Jinwoo Hwang, <u>Minsu Kim</u>, Daeun Kim, Seungho Nam, Yoonsung Kim, Dohee Kim, Hardik Sharma, Jongse Park<br>
+[USENIX ATC '22]
 <a href="https://arxiv.org/abs/2110.12320">[Link]</a>
+
+### Accelerating String-key Learned Index Structures via Memoization-based Incremental Training
+<u>Minsu Kim</u>, Jinwoo Hwang, Guseul Heo, Seiyeon Cho, Divya Mahajan, Jongse Park<br>
+[VLDB '24]
+[Accepted]
