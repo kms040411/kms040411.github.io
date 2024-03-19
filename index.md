@@ -44,4 +44,4 @@ Jinwoo Hwang, <u>Minsu Kim</u>, Daeun Kim, Seungho Nam, Yoonsung Kim, Dohee Kim,
 ### Accelerating String-key Learned Index Structures via Memoization-based Incremental Training
 <u>Minsu Kim</u>, Jinwoo Hwang, Guseul Heo, Seiyeon Cho, Divya Mahajan, Jongse Park<br>
 [VLDB '24]
-[Accepted]
+<a href="https://arxiv.org/abs/2403.11472">[Link]</a>
