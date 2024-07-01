@@ -49,3 +49,7 @@ Jaehong Cho, <u>Minsu Kim</u>, Hyunmin Choi, Jongse Park
 <u>Minsu Kim</u>, Jinwoo Hwang, Guseul Heo, Seiyeon Cho, Divya Mahajan, Jongse Park<br>
 [VLDB '24]
 <a href="https://arxiv.org/abs/2403.11472">[Link]</a>
+
+### LPU: A Latency-optimized and Highly Scalable Processor for Large Language Model Inference
+Moon Seungjae, Kim Jung-Hoon, Kim Junsoo, Hong Seongmin, Cha Junseo, <u>Kim Minsu</u>, Lim Sukbin, Choi Gyubin, Seo Dongjin, Kim Jongho, Lee Hunjong, Park Hyunjun, Ko RyeoWook, Choi Soongyu, Park Jongse, Lee Jinwon, Kim Joo-Young
+[IEEE Micro, special issue on Contemporary Industry Products, 2024]
