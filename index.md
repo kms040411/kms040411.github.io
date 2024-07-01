@@ -42,8 +42,8 @@ Jinwoo Hwang, <u>Minsu Kim</u>, Daeun Kim, Seungho Nam, Yoonsung Kim, Dohee Kim,
 <a href="https://arxiv.org/abs/2110.12320">[Link]</a>
 
 ### LLMServingSim: A Simulation Infrastructure for LLM Inference Serving Systems
-Jaehong Cho, <u>Minsu Kim</u>, Hyunmin Choi, Jongse Park
-[ISCA Workshop MLArchSys'24]
+Jaehong Cho, <u>Minsu Kim</u>, Hyunmin Choi, Jongse Park<br>
+[ISCA Workshop MLArchSys '24]
 
 ### Accelerating String-key Learned Index Structures via Memoization-based Incremental Training
 <u>Minsu Kim</u>, Jinwoo Hwang, Guseul Heo, Seiyeon Cho, Divya Mahajan, Jongse Park<br>
@@ -51,5 +51,5 @@ Jaehong Cho, <u>Minsu Kim</u>, Hyunmin Choi, Jongse Park
 <a href="https://arxiv.org/abs/2403.11472">[Link]</a>
 
 ### LPU: A Latency-optimized and Highly Scalable Processor for Large Language Model Inference
-Moon Seungjae, Kim Jung-Hoon, Kim Junsoo, Hong Seongmin, Cha Junseo, <u>Kim Minsu</u>, Lim Sukbin, Choi Gyubin, Seo Dongjin, Kim Jongho, Lee Hunjong, Park Hyunjun, Ko RyeoWook, Choi Soongyu, Park Jongse, Lee Jinwon, Kim Joo-Young
+Moon Seungjae, Kim Jung-Hoon, Kim Junsoo, Hong Seongmin, Cha Junseo, <u>Kim Minsu</u>, Lim Sukbin, Choi Gyubin, Seo Dongjin, Kim Jongho, Lee Hunjong, Park Hyunjun, Ko RyeoWook, Choi Soongyu, Park Jongse, Lee Jinwon, Kim Joo-Young<br>
 [IEEE Micro, special issue on Contemporary Industry Products, 2024]
