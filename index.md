@@ -32,7 +32,7 @@ February 2021: BS in Computer Science at KAIST
 
 ## Career
 <p>
-July 2023 ~ Current: Intern, Software Developer, HyperAccel
+July 2023 ~ August 2024: Intern, Software Developer, HyperAccel
 </p><br>
 
 ## Publication
@@ -53,6 +53,7 @@ Jaehong Cho, <u>Minsu Kim</u>, Hyunmin Choi, Jongse Park<br>
 ### LLMServingSim: A HW/SW Co-Simulation Infrastructure for LLM Inference Serving Systems at Scale
 Jaehong Cho, <u>Minsu Kim</u>, Hyunmin Choi, Guseul Heo, Jongse Park<br>
 [IISWC '24]
+<a href="https://arxiv.org/abs/2408.05499">[Link]</a>
 
 ### LPU: A Latency-optimized and Highly Scalable Processor for Large Language Model Inference
 Seungjae Moon, Jung-Hoon Kim, Junsoo Kim, Seongmin Hong, Junseo Cha, <u>Minsu Kim</u>, Sukbin Lim, Gyubin Choi, Dongjin Seo, Jongho Kim, Hunjong Lee, Hyunjun Park, RyeoWook Ko, Soongyu Choi, Jongse Park, Jinwon Lee, Joo-Young Kim<br>
