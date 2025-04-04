@@ -9,6 +9,9 @@ profile_picture:
   Hello, my name is Minsu Kim and I'm a Ph.D student in Computer Science at KAIST. I'm studying in <a href="http://casys.kaist.ac.kr">Computer Architecture and Systems Lab</a> and advised by professor <a href="https://jongse-park.github.io/">Jongse Park</a>.
 </p><br>
 
+## CV
+<a href="./cv.pdf">[Link]</a>
+
 ## Contact
 <p>
   <b>Email</b>: mskim@casys.kaist.ac.kr<br>
