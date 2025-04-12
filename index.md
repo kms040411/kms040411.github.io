@@ -61,8 +61,10 @@ Jaehong Cho, <u>Minsu Kim</u>, Hyunmin Choi, Guseul Heo, Jongse Park<br>
 ### LPU: A Latency-optimized and Highly Scalable Processor for Large Language Model Inference
 Seungjae Moon, Jung-Hoon Kim, Junsoo Kim, Seongmin Hong, Junseo Cha, <u>Minsu Kim</u>, Sukbin Lim, Gyubin Choi, Dongjin Seo, Jongho Kim, Hunjong Lee, Hyunjun Park, RyeoWook Ko, Soongyu Choi, Jongse Park, Jinwon Lee, Joo-Young Kim<br>
 [IEEE Micro, special issue on Contemporary Industry Products, 2024]
+<a href="https://arxiv.org/abs/2408.07326">[Link]</a>
 
 ### Oaken: Fast and Efficient LLM Serving with Online-Offline Hybrid KV Cache Quantization
 <u>Minsu Kim</u><sup>†</sup>, Seongmin Hong<sup>†</sup>, RyeoWook Ko, Soongyu Choi, Hunjong Lee, Junsoo Kim, Joo-Young Kim, Jongse Park<br>
 <sup>†</sup>: Equal contribution<br>
 [ISCA '25]
+<a href="https://arxiv.org/abs/2503.18599">[Link]</a>
