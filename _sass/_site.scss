@@ -5,7 +5,7 @@
 
   width: 200px;
   height: auto;
-  filter: brightness(80%);
+  filter: brightness(90%);
 
   @include media-query($on-mobile) {
     float: none;
